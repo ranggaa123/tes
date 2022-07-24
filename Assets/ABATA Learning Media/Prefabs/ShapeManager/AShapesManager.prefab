@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &185084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 442900}
+  - component: {fileID: 11492436}
+  m_Layer: 5
+  m_Name: AShapesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &442900
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 185084}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11492436
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 185084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a276494aba161438d5def8e1b5ecbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapes:
+  - showContents: 1
+    gamePrefab: {fileID: 1740361592903870, guid: 26e753de1ca0e614fb73cba1500461f5,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1871876662996780, guid: 12268b07835f80f4d803601accb6dec2,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1842818795515582, guid: 30d2299b90cfb604e840020f939028bd,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1844365068053302, guid: 8409f81f65058f44aa4113e7cf9cfed7,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1689173880601676, guid: 6f94fe54dcc700a4a81315c5d0620639,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1963555138413442, guid: fe7765f02a9241c42bed44e1cad983b6,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1920311470796276, guid: bbcf9beba9981c249b6127991a47d7dd,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1625315581670914, guid: caa3deebb105e074d94ce6ca9baa7e89,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1575848060724572, guid: 1f6d0326c264e3647b1bc87d49f8c927,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1672182377550912, guid: dc8e9816750dc7d438a349b3ab903efd,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1553296930977690, guid: f1cf4c04dbf7f6d419255e7d7ec9f3ad,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1391424257141464, guid: 4be699d1f820a244fa228032c5b64ea8,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1304710834030012, guid: b708711396ffcdf43a9fcb3f89d6de50,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1217476439670414, guid: 0f5b55c5161914b49a3e81f056f34e00,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1669045527655122, guid: a79ad4d7e68afa6438c86925fe00fb50,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1660799313977394, guid: 495fed5cb007f0c4e9bcb80a7a4020c7,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1121337041247210, guid: 4a6c6910e50f44f40b84e63a167351a2,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1759985648433772, guid: 99baa6fed2b535841a2a9559c4f83166,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1833067421293100, guid: 8e640686ceab6394a8ee90abfbade3cd,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1534897584044382, guid: 53995824fce1c584c8b213e0e10ef135,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1293713682355676, guid: 5fa67081f38cd1c438aad1b57d23a4a8,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1461860201121866, guid: 7526f673426eebc48b314e7a97898107,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1251711156551394, guid: c3c36912724425c409b6ab19ef88b613,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1606082578187018, guid: 2edafb071e95ce346a1cc79c610da9d5,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1909122917608078, guid: aa7cd6fe6405a5b46bbf968c194a104b,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1453858627593494, guid: 4c1dcdab060a45543805f0fb5e0cc8af,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1558188032280156, guid: 9e4a961300613c341b652851782f9f59,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1163874329997380, guid: d44ac98bc2a585640970c9e63c84d9ba,
+      type: 2}
+    picture: {fileID: 0}
+  - showContents: 1
+    gamePrefab: {fileID: 1118266375443074, guid: fb971ed8bc43dab4d82b7a0b159806e0,
+      type: 2}
+    picture: {fileID: 0}
+  shapeLabel: Arabic
+  shapePrefix: Arabic
+  sceneName: ArabicAlbum
+  lastSelectedGroup: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 185084}
+  m_IsPrefabParent: 1
